@@ -1,0 +1,78 @@
+.container {
+  max-width: 45vw;
+  margin: auto;
+  background-color: #ffffff;
+}
+
+.storeHeading {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.content {
+  position: relative;
+  z-index: 1;
+  background: #ffffff;
+  max-width: 500px;
+  margin: 0 0 0 80px;
+  padding: 45px;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  margin-bottom: 10px;
+}
+
+.userContent {
+  position: relative;
+  z-index: 1;
+  background: #ffffff;
+  max-width: 500px;
+  margin: 10px 0 0 450px;
+  padding: 45px;
+  padding-bottom: 50px;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+.userContent h2 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.userContent input {
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 7px;
+  text-align: center;
+  margin: 10px;
+}
+
+.userContent button {
+  margin-top: 10px;
+  padding: 12px 35px 12px 35px;
+  border-radius: 10px;
+  background-color: rgb(193, 199, 121);
+  font-size: 15px;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+  cursor: pointer;
+}
+
+.showUserContent {
+  position: relative;
+  z-index: 1;
+  background: #ffffff;
+  max-width: 500px;
+  margin: 10px 0 0 450px;
+  padding: 45px;
+  padding-bottom: 50px;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
